@@ -16,8 +16,7 @@ It serves as both my **learning notebook** and **public portfolio**.
 
 > (Each link will point to a folder with a LaTeX PDF report)
 
-### 🤖 Transformers & LLMs  
-📄 [Download PDF](./Large Language Models/The Speaking Machine.pdf)  
+### 🤖 Transformers & LLMs  ==> [📄 Download "The Speaking Machine"](./Large%20Language%20Models/The%20Speaking%20Machine.pdf)
 - [ ] More coming soon...
 
 ---
